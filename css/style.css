@@ -13,20 +13,22 @@ header{
   height: 200px;
 }
 /*layout blocchi nel main*/
+main{
+  margin: 0.5% 0;
+
+}
 .block{
   float: left;
-  margin-top: 0.5%;
-  margin-bottom: 0.5%;
+  margin: 0.5% 0;
 }
 .pink{
   width: 24%;
-  margin-right: 1%;
   height: 350px;
   background-color: pink;
 }
 .purple{
   width: 49%;
-  margin-right: 1%;
+  margin: 0.5% 1%;
   height: 500px;
   background-color: purple;
 }
